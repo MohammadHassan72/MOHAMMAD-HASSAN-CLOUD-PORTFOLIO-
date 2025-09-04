@@ -47,8 +47,7 @@ If you'd like to run this project on your local machine, follow these simple ste
 
 Clone the Repository
 
-git clone [https://github.com/MohammadHassan72/your-portfolio-repo](https://github.com/MohammadHassan72/MOHAMMAD-HASSAN-CLOUD-PORTFOLIO-.git
-Navigate to the Project Directory
+git clone https://github.com/MohammadHassan72/MOHAMMAD-HASSAN-CLOUD-PORTFOLIO- Navigate to the Project Directory
 
 cd your-portfolio-repo
 Open in Browser
