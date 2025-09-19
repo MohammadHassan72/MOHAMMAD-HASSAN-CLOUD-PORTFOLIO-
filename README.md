@@ -55,7 +55,6 @@ Simply open the index.html file in your preferred web browser.
 
 Connect with Me
 I'm always open to new opportunities and collaborations. Feel free to reach out through my professional channels:
-
 LinkedIn: https://www.linkedin.com/in/mohammadhassan72/
 
 GitHub: https://github.com/MohammadHassan72
