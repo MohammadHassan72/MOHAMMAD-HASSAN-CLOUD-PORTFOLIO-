@@ -53,7 +53,7 @@ cd your-portfolio-repo
 Open in Browser
 Simply open the index.html file in your preferred web browser.
 
-Connect with Me
+Connect with Me:
 I'm always open to new opportunities and collaborations. Feel free to reach out through my professional channels:
 LinkedIn: https://www.linkedin.com/in/mohammadhassan72/
 
