@@ -33,7 +33,7 @@ Icons: Font Awesome (via CDN)
 
 Version Control: Git & GitHub
 
-Deployment
+Deployment:
 This portfolio is deployed as a static website on a cloud platform. The deployment process itself serves as a showcase of my skills in cloud infrastructure management.
 
 Hosting: Amazon S3 (Static Site Hosting)
