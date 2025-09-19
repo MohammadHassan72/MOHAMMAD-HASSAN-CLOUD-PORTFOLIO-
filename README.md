@@ -22,7 +22,7 @@ Skills Showcase: A categorized list of my technical skills and tools for quick r
 
 Professional Branding: A custom logo and color palette that reflects my professional identity.
 
-Technology Stack
+Technology Stack:
 This project was built using the following technologies. The choice of technologies not only reflects my front-end development skills but also my understanding of cloud infrastructure and deployment.
 
 Frontend: HTML5, CSS3, JavaScript
